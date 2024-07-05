@@ -1,4 +1,4 @@
-![Código Certo Coders]()
+![Código Certo Coders](reports/68747470733a2f2f757466732e696f2f662f33623233343065382d353532332d346163612d613534392d3036383866643037343530652d6a346564752e6a666966.jpg)
 
 # 📚 Trilha Inicial Ciência de Dados Jr
 Este projeto tem como objetivo realizar uma análise básica de dados utilizando Python, explorando um conjunto de dados pré-definido para extrair insights simples através de estatísticas descritivas e visualizações gráficas.
