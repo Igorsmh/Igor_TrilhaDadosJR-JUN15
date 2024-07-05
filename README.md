@@ -49,9 +49,9 @@ Este projeto tem como objetivo realizar uma análise básica de dados utilizando
 Nesse curto projeto para a Codigo Certo foi possivel responder as perguntas desafio, assim como extrair outros pontos significantes. O ponto que mais chama minha atenção é que dentre os 3 cursos que mais geraram receita nenhum deles foi o curso mais vendido, isso se torna bem claro tanto observando os gráficos de receita gerada por curso quanto quando observamos a correlação inversa entre preço e quantidade de vendas. Caso o foco da emrpesa seja aumentar sua receita, o foco do marketing deveria ser direcionado aos cursos de *Desenvolvimento Web com HTML e CSS*, *Desenvolvimento Mobile com React Native* e *JavaScript Avançado: Frameworks e Bibliotecas* , caso a divulgação seja o foco um foco no curso de *Introdução à Programação em Python* parece ser uma opção mais interessante, tanto pelo seu valor acessivel quanto pela comprovação de boas vendas. 
 
 ## Organização desse repositório:
-**data** --> Dados Originaisde vendas dos cursos.
-**reports** --> Imagens arquivas para uso no README.
-**notebooks** --> Arquivos notebooks com as análises feitas.
+- **data** --> Dados Originaisde vendas dos cursos.
+- **reports** --> Imagens arquivas para uso no README.
+- **notebooks** --> Arquivos notebooks com as análises feitas.
 
 ## Dicionario de Dados:
 - **ID:** Identificador único de cada curso vendido.
